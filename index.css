@@ -1,0 +1,16 @@
+body{
+    display: block
+    margin: 0px
+
+    
+}
+.Burger Menu{
+    background: yellow;
+}
+section{
+    width: 40%;
+    padding-top: 60px
+    padding-bootom: 70px 
+    margin:0 auto
+    
+}

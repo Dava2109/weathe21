@@ -1,0 +1,84 @@
+body {
+    font-family: "Trebutcher M5",Arial, sans-serif;
+   
+     margin: 20px;
+
+}
+body 
+header{
+background: #635770;
+color : red
+padding:50px 0px;
+
+
+}
+
+h1,h2{
+text-align: center;
+}
+.dinner-list-wrapper {
+    background: #314;
+}
+section{
+    width: 40%;
+    padding-top:50px;
+    padding-bottom:50px;
+    margin: 0 auto;
+
+}
+ul {
+    margin: 0;
+    list-style: none;
+    padding: 0  5px;
+}
+li{
+    color: blue;
+    height: 50px;
+}
+
+li:nth-child(2n){
+    background: #635770;
+
+}
+li:nth-child(2n+1){
+    background: #847897;
+
+}
+li:hower{
+    border: 2px soliв white;
+}
+label{
+    width: 100%
+    display: block;
+}
+label:active {
+    background: red;
+
+}
+p {
+    display: inline-block;
+
+}
+
+input:checked + p {
+    text-decoration: underline;
+}
+.footer-inner{
+    display:block;
+    width: 40%;
+    margin: 0 auto;
+    text-align:center;
+    background: #3F474D;
+    color: #BA5E78;
+    line-height:50%;
+
+}
+footer{
+    padding: 10px 0 50px 5px; 
+}
+
+
+
+
+
+
